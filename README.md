@@ -6,7 +6,6 @@ const Aryan = {
   frameworks: ["React", "Redux", "Node.js", "NestJS", "Express"],
   tools: ["Git", "BitBucket", "Jira", "SonarQube", "VSCode"],
   databases: ["MySQL", "MongoDB", "Firebase"],
-  currentlyLearning: ["Next.js", "GraphQL", "Web3"],
   hobbies: ["Problem Solving", "Learning new technologies", "Building cool projects"],
 }
 
