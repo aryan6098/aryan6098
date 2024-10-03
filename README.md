@@ -1,4 +1,4 @@
-- # Hey there, Aryan Raj here! 👋
+ # Hey there, Aryan Raj here! 👋
 
 ```javascript
 const Aryan = {
