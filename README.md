@@ -16,7 +16,6 @@ Building seamless user interfaces with React.js and Redux.
 Creating robust backend systems using Node.js, NestJS, and Express.
 Developing full-stack web apps and APIs that integrate smoothly with databases like MySQL and MongoDB.
 Problem-solving and optimizing code for performance and scalability.
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 
 - 📫 How to reach me ...[linkedin](https://www.linkedin.com/in/aryan-r-722798126/)
